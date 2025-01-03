@@ -1,0 +1,300 @@
+Date: Fri, 3 Jan 2025 10:16:31 +0800 (GMT+08:00)
+Message-ID: <1274691877.14875.1735870591976@2898e2d5ec5f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_14874_1754297618.1735870591976"
+
+------=_Part_14874_1754297618.1735870591976
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>CANopen Over EtherCAT(COE)</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>CANopen Over EtherCAT(COE)</h1>
+    <div class=3D"Section1">
+        <p><span style=3D"color: rgb(18,18,18);">=E4=B8=A4=E8=80=85=E5=AE=
+=9A=E4=B9=89=E5=92=8C=E5=85=B3=E7=B3=BB:<a href=3D"https://blog.csdn.net/xi=
+ngsongyu/article/details/100669012" class=3D"external-link" rel=3D"nofollow=
+">https://blog.csdn.net/xingsongyu/article/details/100669012</a></span></p>
+<p><br></p>
+<p><span style=3D"color: rgb(18,18,18);">=E6=B7=B1=E5=85=A5=E7=90=86=E8=A7=
+=A3CANopen=E6=8E=A7=E5=88=B6=E5=90=84=E7=A7=8D=E4=BC=BA=E6=9C=8D:</span></p=
+>
+<p><span style=3D"color: rgb(18,18,18);"><a href=3D"http://www.baclizzy.com=
+.cn/20180618_CoE_Drive_DS402/11_2_TwinCAT_NC_EtherCAT_Drive_DS402.pdf" clas=
+s=3D"external-link" rel=3D"nofollow">http://www.baclizzy.com.cn/20180618_Co=
+E_Drive_DS402/11_2_TwinCAT_NC_EtherCAT_Drive_DS402.pdf</a></span></p>
+<p><span style=3D"color: rgb(18,18,18);"><img height=3D"250" style=3D"margi=
+n: 2px; border: 1px solid #ddd; box-sizing: border-box; vertical-align: tex=
+t-bottom;" src=3D"71cfa6dfbe1764a4f389c8985e2367c2" width=3D"250"></span></=
+p>
+    </div>
+</body>
+</html>
+------=_Part_14874_1754297618.1735870591976
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/71cfa6dfbe1764a4f389c8985e2367c2
+
+iVBORw0KGgoAAAANSUhEUgAAAPoAAAD6CAMAAAC/MqoPAAADAFBMVEX19fXv7+98fHx1dXV9fX23
+t7eenp5wcHDn5+f09PTz8/Pd3d2SkpLY2Njt7e3Q0NCioqJycnKqqqq7u7uurq6CgoKGhobOzs7D
+w8PR0dGNjY3Hx8fj4+PGxsbS0tKoqKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAABYhwFnAAAFyUlEQVR4Xu3cCXPaOBQH8OcDyxwmpBAgE9JVv/+HWmZLtmmOZTnC
+GXAl2QZbOClkil3K/9cBpCcBetiWp7GACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAA4AQYeuA43PXa0mNvWJnmTI+dMNcuuHrsLW7B3LvvCXAKeuQ9BUePHIWpB45i771d
+sdZ65IQxPfC+A7t/UDZb/bd0xqkfdBB+mL3SI9W2MzcbV/5cb5B2ux9DTql7E2u68Gk19tJy3+l+
+wvR5q8Wug8I185Itit79lGm5VO3PUfHCqsZbAtmknss0d1n7JyoOLi7jLVmy9UAWJtNteZ7LCLKj
+7cFW7D9NVTnRau1/7g5ftP1tZZjbVs8j9d8EUj9HSP0c5ZZ6Niew9+SWev6Q+jlC6ucIqZ8jpH6O
+kHp+SqWSHspILqnLZJfhlWSrMKFiLtnnkfp04IqNXQsq3prIHyQ7ZCOP1Kl0QZNav03yL/LPE6KL
+XLZ6LheefHNGw5JVNht9zxepF6bJK+rZXHjKJfXKqLSkBXnWizlaEpWnpeSVt2xSz4b+d4lbFlsu
+45o324qidz9lO7nU7XJU9Fg93iLtdD9hu7ncmrWWWyy6rZqtb/O07qcrJZdqoWKzS7tSSFm5l9L9
+ZB2Yy4HdPyiX8/rvAakf2eqgpZ9uNqf1bFI3D0pmldGg9MBRmP4hy4MzSj3l1HIM57soHAAAAAAA
+AAAAAAB+Ga4HPozrgV+IExUYj2qxL9i1+9fdZCFw+0BUHw+jKo8K3aigM8pLcd/8Ku4co/h/ylP4
+N2siH6L6XjjRN6K1PRXvIC9Nv7bvZNhbqNEWTNG23Bmtzmx09ZDAbrlWCKt1t2Mlv4PIEzWNwWzP
+KNfVlWL2KbpgzLcdRMX8ayf2U1x+qAXGRNamJd6hoV7aYDeigW5YvVpnrdTRbnAiv6gHA3ynEHGT
+l7y5vCvLmPisi6wjA7zOGJM/KeNs+14zir6prp4S4R21mCYRE9VPzJdNIjeRkUvyBSvbdWVc3ZeY
+I/LbXsZqOqrBksvwnPAKz2a0vCFeoiFL4qVZgxMXwrZ9r7ml/a7MC32m8ucOVamn6uNLdmWIXc5Q
+76WsPCrKRHb0iq96SHixReceybU1dZrdjBvMWer9Jg35gpvlN/VBkK5adMXCrb0d7ajJmqO2OIZf
+mhfNkTziut2obc/UJ7Ev4G5c3NPy7wm9hONw74e9a/nmz1GH0uCZZs+p6wEXVksPEbVe5P1aDJFG
+a3qq3Q1HVzufnGxdP1m1G/m65bERfCF8pnaVsMt2tJWvw6/rPlFfFaJo4I2jQuMY1kKPiW1qiPnG
+o2W46E3Obb3EzLVkc5pZFTmj6SY3T6WduJwYxfTldHqdR7G170Xli8pJt3QvzSdqfadXNZlqYqOV
+n6UlPwhV2HbZwXcKAYdpv6rA1X2VddQ/QwWCmLhnmyVRTB5aPDjwguaQrNg1/W1UVdxdOeRciWd3
+UprlhBbW5TSn3oCLFvWbF55qio2WyzlBHvlqcnB5Yhj7bPXGiKWeLIZio/bETTsY/Kew4Pr/iedV
+yU29aGxPtdQ2HLE3yQMxdSuVnqK3G1N4tpR72qucuefygE+MtjwLVyqowias7HGst0dGauYiyQdf
+3ZKWZHuljji5rZfyecPX9FUFs/a/8oHHbqE7cug70eV9w3WDc2Sk1Cms5IHFGmXDW8ojLNKeipOb
+nGC3o+XiNr6t3poVccyrQqw/JVIX+43cdWKFQP+6LfaptPHXv4iT1xd9saO/cBerx3GTjKaqX8V+
+mSLuMe20ofhz+XHeN0e+P479igfnq0fTM0Vbo//qLIqVbRPdrceD8fq7PlrvYf5QFtPuc/lh8JD2
+OzB/LK4H4vbY4f9U70xzPHjovlX/AB48dOOxn+LBQzceAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAACAn/gB0FE7AXbTrOwAAAAASUVORK5CYII=
+------=_Part_14874_1754297618.1735870591976--

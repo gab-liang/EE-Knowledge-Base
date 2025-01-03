@@ -1,0 +1,373 @@
+Date: Fri, 3 Jan 2025 10:13:49 +0800 (GMT+08:00)
+Message-ID: <1715212068.14855.1735870429655@2898e2d5ec5f>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_14854_1174946256.1735870429654"
+
+------=_Part_14854_1174946256.1735870429654
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>4129 - CodesysPLC=E6=8E=A7=E5=88=B6EtherCAT=E7=94=B5=E6=9C=BA</t=
+itle>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>4129 - CodesysPLC=E6=8E=A7=E5=88=B6EtherCAT=E7=94=B5=E6=9C=BA</h1>
+    <div class=3D"Section1">
+        <div class=3D"contentLayout2">=20
+<div class=3D"columnLayout three-equal" data-layout=3D"three-equal">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><strong>Abstract</strong></p>
+<p><br></p>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><strong>Property</strong></p>
+<div class=3D"plugin-tabmeta-details">
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 63.=
+3286%;">
+<colgroup>
+<col style=3D"width: 49.4881%;">
+<col style=3D"width: 50.3341%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Description</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p>CodesysPLC=E6=8E=A7=E5=88=B6EtherCAT=E7=94=B5=E6=9C=BA</p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Category</th>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Status</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p> <span> <span id=3D"2346" data-pageid=3D"123448130" class=3D"status-macr=
+o aui-lozenge         aui-dropdown2-trigger-arrowless handy-status-view han=
+dy-status-editable history " aria-controls=3D"asdd-2346-123448130" data-sta=
+tus=3D"37" style=3D"color: #ffffff !important; background-color: #84bbc6 !i=
+mportant; border-color: #84bbc6 !important; " data-color=3D"#ffffff" data-b=
+ackground-color=3D"#84bbc6" data-border-color=3D"#84bbc6"> DRAFT </span> </=
+span> </p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Owner</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p><a class=3D"confluence-userlink user-mention" data-username=3D"guohao.hu=
+ang" href=3D"/display/~guohao.huang" data-linked-resource-id=3D"3801747" da=
+ta-linked-resource-version=3D"2" data-linked-resource-type=3D"userinfo" dat=
+a-base-url=3D"https://confluence.mujin.com.cn">Huang Guohao</a></p>
+</div></td>
+</tr>
+<tr>
+<th class=3D"confluenceTh">Valid Until</th>
+<td class=3D"confluenceTd">
+<div class=3D"content-wrapper">
+<p><time datetime=3D"2024-01-08" class=3D"date-past">2024-1-8</time></p>
+</div></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>=20
+</div>=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p class=3D"auto-cursor-target"><strong>Contents</strong></p>
+<div id=3D"expander-2146072450" class=3D"expand-container">
+<div id=3D"expander-control-2146072450" class=3D"expand-control" aria-expan=
+ded=3D"true">
+<span class=3D"expand-icon aui-icon aui-icon-small aui-iconfont-chevron-dow=
+n"></span><span class=3D"expand-control-text">Expand Table of Contents</spa=
+n>
+</div>
+<div id=3D"expander-content-2146072450" class=3D"expand-content">
+<p><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1735870429399 {padding: 0px;}
+div.rbtoc1735870429399 ul {list-style: none !important;margin-left: 0px;pad=
+ding-left: 5px;}
+div.rbtoc1735870429399 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style></p>
+<div class=3D"toc-macro rbtoc1735870429399">=20
+<ul class=3D"toc-indentation">=20
+</ul>=20
+</div>
+<p></p>
+</div>
+</div>
+<p><strong style=3D"letter-spacing: 0.0px;">References</strong></p>
+<p class=3D"auto-cursor-target"><strong>Related</strong></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout single" data-layout=3D"single">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p>B=E7=AB=99=E6=95=99=E5=AD=A6=EF=BC=9A<a href=3D"https://www.bilibili.com=
+/video/BV1fh4y1M7JJ/?p=3D58&amp;spm_id_from=3DpageDriver" class=3D"external=
+-link" rel=3D"nofollow">https://www.bilibili.com/video/BV1fh4y1M7JJ/?p=3D58=
+&amp;spm_id_from=3DpageDriver</a></p>
+<p><a href=3D"http://developer.codesys.cn/forum.php?mod=3Dviewthread&amp;ti=
+d=3D137" class=3D"external-link" rel=3D"nofollow">SoftMotion =E8=BF=90=E5=
+=8A=A8=E6=8E=A7=E5=88=B6=E9=94=99=E8=AF=AF=E4=BF=A1=E6=81=AF=E4=B8=AD=E6=96=
+=87=E7=BF=BB=E8=AF=91=EF=BC=8C=E5=B7=B2=E7=BB=8F=E8=A7=A3=E5=86=B3=E6=96=B9=
+=E6=B3=95=E3=80=82 - CODESYS =E7=BC=96=E7=A8=8B=E7=8E=AF=E5=A2=83 - CODESYS=
+=E5=BC=80=E5=8F=91=E8=80=85=E7=A4=BE=E5=8C=BA - CODESYS=E5=BC=80=E5=8F=91=
+=E8=80=85=E4=B8=AD=E5=BF=83</a></p>
+<p>=E8=BD=B4=E9=80=9A=E8=AE=AF=E6=8A=A5=E9=94=99=E4=BB=A5=E5=8F=8A=E5=A4=8D=
+=E4=BD=8D=E4=BB=8E=E7=AB=99=E6=96=B9=E5=BC=8F=EF=BC=9A</p>
+<p><a href=3D"http://www.yanjuntech.cn/Mybook/AM600_Use/export/_book/si_300=
+1_zong_xian_yun_dong_kong_zhi_ff1a/zhou_cuo_wu_ding_wei_he_cuo_wu_qing_chu_=
+ff1a.html" class=3D"external-link" rel=3D"nofollow">http://www.yanjuntech.c=
+n/Mybook/AM600_Use/export/_book/si_3001_zong_xian_yun_dong_kong_zhi_ff1a/zh=
+ou_cuo_wu_ding_wei_he_cuo_wu_qing_chu_ff1a.html</a></p>
+<p><br></p>
+<p>EtherCAT=E9=80=9A=E8=AE=AF=E8=BF=9E=E6=8E=A5=E9=A9=B1=E5=8A=A8=E5=99=A8=
+=E5=BB=BA=E7=AB=8B=E8=99=9A=E6=8B=9F=E8=BD=B4=E6=96=B9=E5=BC=8F=EF=BC=9A</p=
+>
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+<div class=3D"columnLayout single" data-layout=3D"single">=20
+<div class=3D"cell normal" data-type=3D"normal">=20
+<div class=3D"innerCell">=20
+<p><br></p>
+</div>=20
+</div>=20
+</div>=20
+</div>
+    </div>
+</body>
+</html>
+------=_Part_14854_1174946256.1735870429654--
